@@ -1,1 +1,1 @@
-# OpenCV-to-make-a-real-time-face-detection
+# OpenCV to ake a real time face detection
