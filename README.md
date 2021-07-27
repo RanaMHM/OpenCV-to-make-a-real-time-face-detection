@@ -10,20 +10,20 @@
 <div dir="rtl"  > فتح قطع الذراع في البرنامج والبدأ بالتركيب : </div>
 <br><br>
 <br>
-<div dir="rtl"> <img width="225" alt="base"  src="https://user-images.githubusercontent.com/52053143/127237566-01d88186-46cf-4088-ac86-6072ec23c021.png">
+<div dir="rtl"> <img width="200" alt="base"  src="https://user-images.githubusercontent.com/52053143/127237566-01d88186-46cf-4088-ac86-6072ec23c021.png">
 
-<img width="245" alt="2" src="https://user-images.githubusercontent.com/52053143/127237840-5b460e28-206c-47e0-95bb-c28119e3cf1f.png">
+<img width="215" alt="2" src="https://user-images.githubusercontent.com/52053143/127237840-5b460e28-206c-47e0-95bb-c28119e3cf1f.png">
 
 
-<img width="141" alt="3" src="https://user-images.githubusercontent.com/52053143/127237858-46ae8e4d-62b7-4784-993d-33767cf05a32.png">
+<img width="100" alt="3" src="https://user-images.githubusercontent.com/52053143/127237858-46ae8e4d-62b7-4784-993d-33767cf05a32.png">
 
 
 <img width="98" alt="4" src="https://user-images.githubusercontent.com/52053143/127237865-88402c33-9e33-41af-8eab-8ebe56d00c50.png">
 
 
-<img width="150" alt="5" src="https://user-images.githubusercontent.com/52053143/127237873-92c8e1ba-ee7a-421c-933d-447d7e753388.png">
+<img width="100" alt="5" src="https://user-images.githubusercontent.com/52053143/127237873-92c8e1ba-ee7a-421c-933d-447d7e753388.png">
 
 
-<img width="940" alt="11" src="https://user-images.githubusercontent.com/52053143/127237936-02f2c168-13a5-42be-9ea9-764c518cdc95.png">
+<img width="900" alt="11" src="https://user-images.githubusercontent.com/52053143/127237936-02f2c168-13a5-42be-9ea9-764c518cdc95.png">
 
 </div>
