@@ -10,9 +10,9 @@
 <div dir="rtl"  > فتح قطع الذراع في البرنامج والبدأ بالتركيب : </div>
 <br><br>
 <br>
-<div dir="rtl"> <img width="245" alt="base"  src="https://user-images.githubusercontent.com/52053143/127237566-01d88186-46cf-4088-ac86-6072ec23c021.png">
+<div dir="rtl"> <img width="225" alt="base"  src="https://user-images.githubusercontent.com/52053143/127237566-01d88186-46cf-4088-ac86-6072ec23c021.png">
 
-<img width="265" alt="2" src="https://user-images.githubusercontent.com/52053143/127237840-5b460e28-206c-47e0-95bb-c28119e3cf1f.png">
+<img width="245" alt="2" src="https://user-images.githubusercontent.com/52053143/127237840-5b460e28-206c-47e0-95bb-c28119e3cf1f.png">
 
 
 <img width="141" alt="3" src="https://user-images.githubusercontent.com/52053143/127237858-46ae8e4d-62b7-4784-993d-33767cf05a32.png">
